@@ -2,7 +2,11 @@
 ## heading 2
 ### headinbng 3
 
-´´´ CSS
+```CSS
 h1{
     color: red ;
-}
+```
+
+``` html
+<h1>I am heading</h1>
+```
